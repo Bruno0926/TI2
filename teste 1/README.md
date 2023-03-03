@@ -1,1 +1,1 @@
-// Minha nota de autoavaliação é 4 pois eu fiz a atividade de forma dedicada correta, porém, tive alguns problemas com o "Eclipse" e não consegui desenvolver muito bem por ele.
+// Minha nota de autoavaliação é 5 pois eu fiz a atividade de forma dedicada, correta e pelo "Eclipse". No canvas eu coloquei a nota 4 por engano.
